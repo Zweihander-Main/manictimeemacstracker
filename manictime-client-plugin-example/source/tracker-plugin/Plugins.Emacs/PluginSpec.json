@@ -1,0 +1,10 @@
+﻿{
+  "Id": "ManicTime.DocumentTracker.Emacs",
+  "Version": "1.0.0.0",
+  "Type": "DocumentTracker",
+  "AssemblyName": "Plugins.Emacs.dll",
+  "Name": "Document timeline: Emacs",
+  "Description": "Get file name from window title",
+  "MinHostVersion": "4",
+  "MaxHostVersion": "4"
+}
